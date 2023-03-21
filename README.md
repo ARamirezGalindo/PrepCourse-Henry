@@ -1,2 +1,2 @@
-Es es un proyecto de como crear un repositorio de github
+Es es un proyecto de pruena de como clonar y crear un repositorio de github
 
